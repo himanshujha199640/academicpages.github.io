@@ -75,10 +75,9 @@ analytics:
 author:
   name             : "Himanshu Jha"
   avatar           : "profile.png"
-  bio              : "Electronics & Communication Engineering Undergrad"
+  bio              : "Linux kernel hacker"
   location         : "New Delhi, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "himanshujha199640@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,7 +94,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/himanshujha199640/"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -277,4 +275,4 @@ compress_html:
   ignore:
     envs: development
 
-  github: [metadata]
+github: [metadata]

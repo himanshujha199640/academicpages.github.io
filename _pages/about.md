@@ -9,5 +9,4 @@ redirect_from:
 ---
 
 
-I'm a final year undergrad student pursuing Electronics & Communication Engineering from
-Guru Tegh Bahadur Institute Of Technology(2015-19).
+I'm a final year undergrad student pursuing Electronics & Communication Engineering from Guru Tegh Bahadur Institute Of Technology(2015-19).
